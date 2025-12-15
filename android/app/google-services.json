@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427010617215",
+    "project_id": "surviving-solo",
+    "storage_bucket": "surviving-solo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427010617215:android:e9970102027e22ad0c744a",
+        "android_client_info": {
+          "package_name": "com.yeonghyun.surviving_solo.surviving_solo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBia5NA9Lf4A8X42VjSpD9_WjHdCYmh2EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
