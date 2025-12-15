@@ -41,10 +41,10 @@
 | <img src="assets/cleaning.png" width="200"> | <img src="assets/recycling.png" width="200"> | <img src="assets/community.png" width="200"> | <img src="assets/items.png" width="200"> |
 | 구역별 청소 주기<br>체크 및 관리 | 요일별 배출 품목<br>알림 설정 | 자취 고민 상담 및<br>정보 공유 게시판 | 검증된 자취 아이템<br>추천 큐레이션 |
 
-### 4. ⚙️ 설정 및 계정 (Settings)
-| 로그인 | 마이페이지 | 로그아웃 |
-| :---: | :---: | :---: |
-| <img src="assets/login.png" width="200"> | <img src="assets/mypage.png" width="200"> | <img src="assets/logout.png" width="200"> |
+### 4. ⚙️ 앱 시작 및 설정 (Start & Settings)
+| 로그인 | 홈 화면 (대시보드) | 마이페이지 | 로그아웃 |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/login.png" width="200"> | <img src="assets/home.png" width="200"> | <img src="assets/mypage.png" width="200"> | <img src="assets/logout.png" width="200"> |
 
 <br>
 
