@@ -15,9 +15,9 @@
 
 <br>
 
-## 📱 주요 화면 및 기능 (Screenshots & Features)
+## 주요 화면 및 기능 
 
-### 1. 🧊 스마트 냉장고 & 레시피 (Food Management)
+### 1. 스마트 냉장고 & 레시피 
 식재료의 유통기한을 자동으로 관리하고, 남은 재료를 활용한 레시피를 추천합니다.
 
 | 영수증 스캔 (OCR) | 직접 입력 모드 | 나의 냉장고 (D-Day) | 레시피 추천 |
@@ -25,7 +25,7 @@
 | <img src="assets/scan.png" width="200"> | <img src="assets/manual_input.png" width="200"> | <img src="assets/fridge.png" width="200"> | <img src="assets/recipe.png" width="200"> |
 | **Google ML Kit**로<br>상품/가격 자동 인식 | OCR 실패 시<br>수동 입력 지원 | 유통기한 임박 상품<br>시각적 강조 (붉은색) | 보유 재료 기반<br>맞춤 요리법 제공 |
 
-### 2. 💰 생필품 & 지출 관리 (Spending Analysis)
+### 2. 생필품 & 지출 관리 
 월별 지출 흐름을 파악하고, 최저가 비교 및 구독 서비스 관리를 통해 절약을 돕습니다.
 
 | 지출 분석 그래프 | 나의 생필품 | 최저가 비교 | 정기 구독 관리 |
@@ -33,7 +33,7 @@
 | <img src="assets/analysis.png" width="200"> | <img src="assets/supplies.png" width="200"> | <img src="assets/lowest_price.png" width="200"> | <img src="assets/subscription.png" width="200"> |
 | 월별 생필품 지출<br>시각화 (Graph) | 생필품 재고 관리 및<br>공동구매 파티 모집 | 합리적 소비를 위한<br>가격 비교 검색 | 넷플릭스 등<br>고정 지출 D-Day |
 
-### 3. 🧹 생활 루틴 & 커뮤니티 (Lifestyle & Community)
+### 3. 생활 루틴 & 커뮤니티 
 혼자 살 때 놓치기 쉬운 청소, 분리수거 일정을 챙기고 꿀팁을 공유합니다.
 
 | 청소 체크리스트 | 분리수거 알림 | 커뮤니티 | 자취 꿀템 |
@@ -41,14 +41,14 @@
 | <img src="assets/cleaning.png" width="200"> | <img src="assets/recycling.png" width="200"> | <img src="assets/community.png" width="200"> | <img src="assets/items.png" width="200"> |
 | 구역별 청소 주기<br>체크 및 관리 | 요일별 배출 품목<br>알림 설정 | 자취 고민 상담 및<br>정보 공유 게시판 | 검증된 자취 아이템<br>추천 큐레이션 |
 
-### 4. ⚙️ 앱 시작 및 설정 (Start & Settings)
+### 4. 앱 시작 및 설정 
 | 로그인 | 홈 화면 (대시보드) | 마이페이지 | 로그아웃 |
 | :---: | :---: | :---: | :---: |
 | <img src="assets/login.png" width="200"> | <img src="assets/home.png" width="200"> | <img src="assets/mypage.png" width="200"> | <img src="assets/logout.png" width="200"> |
 
 <br>
 
-## 🛠 기술 스택 (Tech Stack)
+## 기술 스택 (Tech Stack)
 
 | 구분 | 기술 | 설명 |
 | --- | --- | --- |
@@ -61,7 +61,7 @@
 
 <br>
 
-## 🔥 트러블 슈팅 (Troubleshooting)
+## 문제 해결 과정
 
 개발 과정에서 마주친 주요 문제와 해결 과정입니다.
 
@@ -89,14 +89,12 @@
 
 <br>
 
-## 🚀 향후 계획 (Roadmap)
+## 향후 계획 
 * **바코드 스캔:** 공공 데이터 API를 연동하여 가공식품 정보 자동 등록.
 * **푸시 알림 (FCM):** 유통기한 임박 및 분리수거 알림 서비스 구현.
 * **위치 기반 공동구매:** 동네 인증을 통한 실시간 이웃 공동구매 매칭 시스템.
 
 <br>
 
-## 🧑‍💻 개발자 (Author)
+## 개발자 
 * **이영현 (YeongHyun Lee)**
-* **Role:** 기획, 디자인, Frontend, Backend
-* **Contact:** (본인의 이메일 주소를 입력하세요)
